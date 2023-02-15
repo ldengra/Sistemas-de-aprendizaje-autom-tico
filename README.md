@@ -1,1 +1,1 @@
-# Sistemas-de-aprendizaje-autom-tico
+# Sistemas-de-aprendizaje-automatico
